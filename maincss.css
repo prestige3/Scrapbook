@@ -1,0 +1,16 @@
+h1{
+   color: blue;
+   text-align: center;
+}
+#first{
+	color: green;
+}
+.format{
+	background: #093B84;
+	color: rgb(220, 131, 43);
+}
+body{
+	background-color: #076624;
+	color: rgb(97, 206, 213 );
+	text-align: center;
+}

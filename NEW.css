@@ -1,0 +1,33 @@
+body{
+	background-color: #0cbd79;
+	margin: 0px;
+	padding: 0px;
+}
+p {
+ 	text-align: center;
+	 color: #bf3000;
+}
+#wet{
+	color: #ff5500;
+}
+li{
+	display: inline-block;
+	color: white;
+	padding: 20px 10px;
+}
+a{
+	display: inline-block;
+}
+ol{
+	text-align: center;
+	background-color: blue;
+}
+a:hover{
+    border: 3px dotted yellow;
+}
+p:hover{
+	font-size: 30px;
+}
+h1{
+	text-decoration: underline dotted;
+}
