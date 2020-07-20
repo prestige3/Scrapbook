@@ -25,10 +25,7 @@ ol{
 	margin: 0px;
 }
 a:hover{
-    border: 3px dotted yellow;
-}
-p:hover{
-	font-size: 30px;
+    border: 2px dotted yellow;
 }
 h1{
 	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
@@ -39,4 +36,37 @@ h1{
 	z-index: 99;
 	text-decoration: underline wavy;
 	margin-bottom: 14px;
+}
+h2{
+	background-color: #251f44;
+	padding: 15px 15px;
+	margin: 0px 0px;
+	font-family: "AFRICAN";
+	color:#fa7d09; 
+	text-decoration: underline wavy #ff4301;
+	text-align: center;
+}
+p{
+	font-size: 30px;
+	font-family: "Albert";
+	color: #6f0000;
+}
+p:hover{
+	color: #120136;
+}
+
+#gal{
+  margin-top: 10%;
+}
+img{
+	margin-top: 5%;
+}
+#yet img{
+	width: 60%;
+	height: 50%;
+	border: 3px groove #cf1b1b;
+}
+#yet{
+	text-align: center;
+	margin: auto;
 }
