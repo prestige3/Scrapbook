@@ -70,3 +70,135 @@ img{
 	text-align: center;
 	margin: auto;
 }
+.dept{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.dept:target{
+	visibility: visible;
+	display: block;
+}
+.dept img{
+	width: 90%;
+	height: 90%;
+	margin: all;
+}
+.debt{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.debt:target{
+	visibility: visible;
+	display: block;
+}
+.debt img{
+	width: 90%;
+	height: 90%;
+	margin: all;
+}
+.hop{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.hop:target{
+	visibility: visible;
+	display: block;
+}
+.hop img{
+	width: 90%;
+	height: 90%;
+	margin: all;
+}
+.full{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.full:target{
+	visibility: visible;
+	display: block;
+}
+.full img{
+	width: 90%;
+	height: 90%;
+	margin: all;
+}
+.empty{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.empty:target{
+visibility: visible;
+	display: block;
+}
+.empty{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.sit{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
+.sit:target{
+	visibility: visible;
+	display: block;
+}
+.sit{
+	visibility: hidden;
+	display: none;
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 99;
+}
