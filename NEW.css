@@ -1,3 +1,11 @@
+#grab{
+	background-color: #900d0d;
+}
+#mad{
+	color: #0f4c75;
+	font-family: "Albert";
+	text-decoration: underline wavy #251f44 ;
+}
 body{
 	background-color: #0cbd79;
 	margin: 0px;
@@ -14,7 +22,11 @@ p {
 li{
 	display: inline-block;
 	color: #fa1616;
-	padding: 20px 10px;
+	background-image: url('./images/Student.jpg');
+	background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    padding-left: 33px;
 }
 a{
 	display: inline-block;
@@ -23,9 +35,10 @@ ol{
 	text-align: center;
 	background-color: #ffa931;
 	margin: 0px;
+	padding: 10px;
 }
 a:hover{
-    border: 2px dotted yellow;
+    border: 4px dotted yellow;
 }
 h1{
 	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
